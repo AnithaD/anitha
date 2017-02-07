@@ -1,0 +1,89 @@
+#container
+{
+	width:780px;
+	height:600px;
+	border:2px solid rgba(5,5,5,1.00);
+	margin-left:202px;
+	overflow-y:scroll;
+}
+li
+{
+	list-style-type:none;
+	margin:0px;
+	padding:10px;
+	width:89%;
+	border:1px solid green;
+	background-color:green;
+	text-align:center;
+}
+#para
+{
+   text-align:justify;
+	margin-left:253px;
+}
+#firstset 
+{
+	position:absolute;
+	margin-left:350px;
+}
+#secondset
+{
+	margin-left:550px;
+}
+#firstset img, #secondset img
+{
+	width:100px;
+	height:100px;
+}
+
+
+#b_0,#b_1,#b_2,#b_3,#b_4,#b_5,#b_6,#b_7
+{
+	position:absolute;
+	margin-left:-77px;
+	margin-top:100px;
+	background-color:rgba(1,1,1,1.00);
+	color:white;
+	cursor: pointer;
+}
+#maincontainer
+{
+width: 280px;
+height: 263px;
+background-color: #B8B1B1;
+position: absolute;
+margin-left: 359px;
+margin-top: -402px;
+overflow-y: scroll;
+overflow-x: hidden;
+
+}
+#imagecontainer
+{
+border: 1px solid white;
+width: 98px;
+height: 81px;
+margin-left: 86px;
+margin-top: 19px;
+
+}
+#first,#second,#third
+{
+ cursor:pointer;
+}
+#drawcontainer
+{
+width: 515px;
+height: 598px;
+border: 1px solid white;
+margin-left: 246px;
+position: absolute;
+}
+#para_0,#para_1,#para_2,#para_3,#para_4,#para_5,#para_6,#para_7
+{
+
+   text-align: justify;
+	
+}
+
+
